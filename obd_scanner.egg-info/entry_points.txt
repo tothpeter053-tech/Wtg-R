@@ -1,2 +1,0 @@
-[console_scripts]
-obd-scanner = obd_scanner.cli:cli
