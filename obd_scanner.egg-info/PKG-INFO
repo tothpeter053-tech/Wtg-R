@@ -1,3 +1,13 @@
+Metadata-Version: 2.1
+Name: obd-scanner
+Version: 0.1.0
+Summary: OBD-II scanner: Bluetooth sensor reader and DTC error code cleaner
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Software Development :: Embedded Systems
+Classifier: Topic :: System :: Hardware :: Hardware Drivers
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
 # Wtg-R — OBD Scanner
 
 A Python-based OBD-II scanner that connects to your vehicle's ECU via a **Bluetooth ELM327 adapter** and lets you:
